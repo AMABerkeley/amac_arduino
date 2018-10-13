@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/amac/ros_workspaces/amac_arduino/ard_ws/install/setup.sh
