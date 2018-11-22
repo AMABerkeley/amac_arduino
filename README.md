@@ -9,4 +9,4 @@ Inside ard_ws I created another ros_workspace in oder to set up an arduino packa
 
 # TODO 
 
-Update code for PWM values to be sent to ros topic.
+Send out better ros messages. Works for now.
